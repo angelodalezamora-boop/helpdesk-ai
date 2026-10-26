@@ -3,8 +3,8 @@
 > BSIT Industry-Ready Portfolio · Project 3 (Specialization Project: Full-Stack Development)
 > Datamex College of Saint Adeline, Parañaque City
 
-**Live demo:** _add your deployed link here_  
-**Source code:** _add this repository's link here_  
+**Live demo: (https://helpdesk-ai-gyrc.onrender.com)
+**Source code:  
 **Portfolio:** _add your portfolio link here_
 
 ---
