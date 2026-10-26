@@ -5,7 +5,7 @@
 
 Live demo: https://helpdesk-ai-gyrc.onrender.com
 Source code:  https://github.com/angelodalezamora-boop/helpdesk-ai
-Portfolio: 
+Portfolio: https://github.com/angelodalezamora-boop/Zamora_Portfolio
 
 ---
 
